@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>send.svg</file>
+    <file>chat.svg</file>
+    <file>close-circle.svg</file>
+    <file>add user.svg</file>
+    <file>login.svg</file>
+    <file>registrpic.svg</file>
+    <file>teamwork.svg</file>
+    <file>work.svg</file>
+  </qresource>
+</RCC>
